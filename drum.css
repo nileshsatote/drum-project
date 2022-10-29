@@ -1,0 +1,53 @@
+body{  
+    background-color: rgba(13, 92, 152, 0.893);
+}
+h1{
+    font-family: Brush Script MT;
+    font-size: 3cm;
+    text-align: center;
+}
+.set{
+    margin-left: 8%;
+    margin-top: 6%;
+}
+.w,.a,.s,.d,.j,.k,.i{
+    width: 150px;
+    height: 150px;
+    color: rgb(15, 2, 2);
+    font-size :5rem;;
+    margin-left: 2%;
+    border: 5px solid;
+    border-color:  rgb(208, 188, 188);
+    border-radius: 40px;
+    
+
+  
+}
+.w{
+    background-image: url(images/tom1.png);
+}
+.a{
+    
+    background-image: url(images/tom2.png);
+}
+.s{
+    background-image: url(images/tom3.png);
+}
+.d{
+    background-image: url(images/tom4.png);
+}
+.j{
+    background-image: url(images/snare.png);
+}
+.k{
+    background-image: url(images/drum\ project.png);
+}
+.i{
+    background-image: url(images/crash.png);
+}
+footer{
+    font-family: Bodoni MT;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 15%;
+}
